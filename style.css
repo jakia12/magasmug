@@ -1,0 +1,17 @@
+.rd_box {
+  background: #111;
+  color: #fff;
+  padding: 28px 40px;
+  border-radius: 30px;
+  margin: 9px;
+  text-align: center;
+}
+.rd_box h3 {
+  font-size: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .fluid_img {
+    margin-bottom: 50px !important;
+  }
+}
