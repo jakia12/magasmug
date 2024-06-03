@@ -14,4 +14,7 @@
   .fluid_img {
     margin-bottom: 50px !important;
   }
+  .pad_img {
+    padding-top: 80px;
+  }
 }
